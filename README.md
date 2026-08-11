@@ -28,3 +28,15 @@ Solutions are added as I solve problems on LeetCode.
 
 LeetCode: Kushagra Burman
 GitHub: @kushagra69yr
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/kushagra69yr/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/kushagra69yr/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
+<!---LeetCode Topics End-->
