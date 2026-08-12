@@ -41,6 +41,7 @@ GitHub: @kushagra69yr
 | [0217-contains-duplicate](https://github.com/kushagra69yr/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/kushagra69yr/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/kushagra69yr/leetcode/tree/main/0268-missing-number/) | Easy |
+| [0283-move-zeroes](https://github.com/kushagra69yr/leetcode/tree/main/0283-move-zeroes/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -82,4 +83,5 @@ GitHub: @kushagra69yr
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kushagra69yr/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0088-merge-sorted-array](https://github.com/kushagra69yr/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0283-move-zeroes](https://github.com/kushagra69yr/leetcode/tree/main/0283-move-zeroes/) | Easy |
 <!---LeetCode Topics End-->
