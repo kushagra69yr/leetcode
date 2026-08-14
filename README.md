@@ -70,6 +70,7 @@ GitHub: @kushagra69yr
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/kushagra69yr/leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0189-rotate-array](https://github.com/kushagra69yr/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/kushagra69yr/leetcode/tree/main/0268-missing-number/) | Easy |
 ## Binary Search
