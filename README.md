@@ -87,10 +87,12 @@ GitHub: @kushagra69yr
 | [0088-merge-sorted-array](https://github.com/kushagra69yr/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/kushagra69yr/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/kushagra69yr/leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0344-reverse-string](https://github.com/kushagra69yr/leetcode/tree/main/0344-reverse-string/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/kushagra69yr/leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0344-reverse-string](https://github.com/kushagra69yr/leetcode/tree/main/0344-reverse-string/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
