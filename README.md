@@ -44,6 +44,7 @@ GitHub: @kushagra69yr
 | [0238-product-of-array-except-self](https://github.com/kushagra69yr/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/kushagra69yr/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/kushagra69yr/leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/kushagra69yr/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,6 +80,7 @@ GitHub: @kushagra69yr
 | [0204-count-primes](https://github.com/kushagra69yr/leetcode/tree/main/0204-count-primes/) | Medium |
 | [0268-missing-number](https://github.com/kushagra69yr/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/kushagra69yr/leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/kushagra69yr/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,6 +120,7 @@ GitHub: @kushagra69yr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/kushagra69yr/leetcode/tree/main/0204-count-primes/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/kushagra69yr/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Primality Test
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,4 +141,12 @@ GitHub: @kushagra69yr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/kushagra69yr/leetcode/tree/main/0509-fibonacci-number/) | Easy |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/kushagra69yr/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/kushagra69yr/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 <!---LeetCode Topics End-->
