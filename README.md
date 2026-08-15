@@ -68,6 +68,7 @@ GitHub: @kushagra69yr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/kushagra69yr/leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0509-fibonacci-number](https://github.com/kushagra69yr/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,6 +78,7 @@ GitHub: @kushagra69yr
 | [0189-rotate-array](https://github.com/kushagra69yr/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/kushagra69yr/leetcode/tree/main/0204-count-primes/) | Medium |
 | [0268-missing-number](https://github.com/kushagra69yr/leetcode/tree/main/0268-missing-number/) | Easy |
+| [0509-fibonacci-number](https://github.com/kushagra69yr/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -128,4 +130,12 @@ GitHub: @kushagra69yr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/kushagra69yr/leetcode/tree/main/0204-count-primes/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/kushagra69yr/leetcode/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/kushagra69yr/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
