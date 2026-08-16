@@ -80,6 +80,7 @@ GitHub: @kushagra69yr
 | [0172-factorial-trailing-zeroes](https://github.com/kushagra69yr/leetcode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0189-rotate-array](https://github.com/kushagra69yr/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/kushagra69yr/leetcode/tree/main/0204-count-primes/) | Medium |
+| [0258-add-digits](https://github.com/kushagra69yr/leetcode/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/kushagra69yr/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/kushagra69yr/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kushagra69yr/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -123,6 +124,7 @@ GitHub: @kushagra69yr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/kushagra69yr/leetcode/tree/main/0204-count-primes/) | Medium |
+| [0258-add-digits](https://github.com/kushagra69yr/leetcode/tree/main/0258-add-digits/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kushagra69yr/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Primality Test
 | Problem Name | Difficulty |
@@ -152,4 +154,8 @@ GitHub: @kushagra69yr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kushagra69yr/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/kushagra69yr/leetcode/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
