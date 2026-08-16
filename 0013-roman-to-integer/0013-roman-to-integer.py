@@ -10,4 +10,3 @@ class Solution:
                 ans += d[s[i]]
 
         return ans
-        
