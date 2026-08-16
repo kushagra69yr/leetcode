@@ -53,6 +53,7 @@ GitHub: @kushagra69yr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/kushagra69yr/leetcode/tree/main/0001-two-sum/) | Easy |
+| [0013-roman-to-integer](https://github.com/kushagra69yr/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0217-contains-duplicate](https://github.com/kushagra69yr/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/kushagra69yr/leetcode/tree/main/0268-missing-number/) | Easy |
 ## Sorting
@@ -75,6 +76,7 @@ GitHub: @kushagra69yr
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/kushagra69yr/leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/kushagra69yr/leetcode/tree/main/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/kushagra69yr/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/kushagra69yr/leetcode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0189-rotate-array](https://github.com/kushagra69yr/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/kushagra69yr/leetcode/tree/main/0204-count-primes/) | Medium |
@@ -101,6 +103,7 @@ GitHub: @kushagra69yr
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/kushagra69yr/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/kushagra69yr/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0125-valid-palindrome](https://github.com/kushagra69yr/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/kushagra69yr/leetcode/tree/main/0344-reverse-string/) | Easy |
