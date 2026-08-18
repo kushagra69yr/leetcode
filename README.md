@@ -36,6 +36,7 @@ GitHub: @kushagra69yr
 | ------- | ------- |
 | [0001-two-sum](https://github.com/kushagra69yr/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kushagra69yr/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0035-search-insert-position](https://github.com/kushagra69yr/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/kushagra69yr/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0088-merge-sorted-array](https://github.com/kushagra69yr/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/kushagra69yr/leetcode/tree/main/0189-rotate-array/) | Medium |
@@ -88,6 +89,7 @@ GitHub: @kushagra69yr
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/kushagra69yr/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0268-missing-number](https://github.com/kushagra69yr/leetcode/tree/main/0268-missing-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
