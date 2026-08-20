@@ -47,6 +47,7 @@ GitHub: @kushagra69yr
 | [0283-move-zeroes](https://github.com/kushagra69yr/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0414-third-maximum-number](https://github.com/kushagra69yr/leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kushagra69yr/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/kushagra69yr/leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -173,6 +174,7 @@ GitHub: @kushagra69yr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/kushagra69yr/leetcode/tree/main/0258-add-digits/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/kushagra69yr/leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
