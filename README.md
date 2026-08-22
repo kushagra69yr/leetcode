@@ -47,6 +47,7 @@ GitHub: @kushagra69yr
 | [0238-product-of-array-except-self](https://github.com/kushagra69yr/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/kushagra69yr/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/kushagra69yr/leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/kushagra69yr/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/kushagra69yr/leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kushagra69yr/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kushagra69yr/leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -62,6 +63,7 @@ GitHub: @kushagra69yr
 | [0217-contains-duplicate](https://github.com/kushagra69yr/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/kushagra69yr/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/kushagra69yr/leetcode/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/kushagra69yr/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/kushagra69yr/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -70,6 +72,7 @@ GitHub: @kushagra69yr
 | [0217-contains-duplicate](https://github.com/kushagra69yr/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/kushagra69yr/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/kushagra69yr/leetcode/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/kushagra69yr/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/kushagra69yr/leetcode/tree/main/0414-third-maximum-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -99,6 +102,7 @@ GitHub: @kushagra69yr
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/kushagra69yr/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0268-missing-number](https://github.com/kushagra69yr/leetcode/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/kushagra69yr/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,6 +120,7 @@ GitHub: @kushagra69yr
 | [0283-move-zeroes](https://github.com/kushagra69yr/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/kushagra69yr/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/kushagra69yr/leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/kushagra69yr/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
