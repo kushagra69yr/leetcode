@@ -38,6 +38,7 @@ GitHub: @kushagra69yr
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kushagra69yr/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0035-search-insert-position](https://github.com/kushagra69yr/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/kushagra69yr/leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0066-plus-one](https://github.com/kushagra69yr/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/kushagra69yr/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kushagra69yr/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/kushagra69yr/leetcode/tree/main/0136-single-number/) | Easy |
@@ -93,6 +94,7 @@ GitHub: @kushagra69yr
 | [0007-reverse-integer](https://github.com/kushagra69yr/leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/kushagra69yr/leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/kushagra69yr/leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0066-plus-one](https://github.com/kushagra69yr/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/kushagra69yr/leetcode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0189-rotate-array](https://github.com/kushagra69yr/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/kushagra69yr/leetcode/tree/main/0204-count-primes/) | Medium |
