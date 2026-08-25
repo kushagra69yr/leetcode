@@ -1,11 +1,12 @@
-class Solution(object):
-    def secondHighest(self, s):
-
-        nums = set(c for c in s if c.isdigit())
-
-        if len(nums) < 2:
-            return -1
-
-        nums.remove(max(nums))
-        return int(max(nums))
-        
+class Solution:
+    def secondHighest(self, s: str) -> int:
+        maxx=-1
+        second=-1
+        for ch in s:
+            if ch.isdigit():
+                if int(ch) > maxx:
+                    second=maxx
+                    maxx=int(ch)
+                elif int(ch)>second and int(ch)!= maxx:
+                    second=int(ch)
+        return second
