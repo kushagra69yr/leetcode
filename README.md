@@ -69,6 +69,7 @@ GitHub: @kushagra69yr
 | [0349-intersection-of-two-arrays](https://github.com/kushagra69yr/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kushagra69yr/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/kushagra69yr/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [1796-second-largest-digit-in-a-string](https://github.com/kushagra69yr/leetcode/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,6 +143,7 @@ GitHub: @kushagra69yr
 | [0344-reverse-string](https://github.com/kushagra69yr/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/kushagra69yr/leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/kushagra69yr/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [1796-second-largest-digit-in-a-string](https://github.com/kushagra69yr/leetcode/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
