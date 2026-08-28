@@ -53,6 +53,7 @@ GitHub: @kushagra69yr
 | [0349-intersection-of-two-arrays](https://github.com/kushagra69yr/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kushagra69yr/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/kushagra69yr/leetcode/tree/main/0414-third-maximum-number/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/kushagra69yr/leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kushagra69yr/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kushagra69yr/leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Prefix Sum
@@ -105,6 +106,7 @@ GitHub: @kushagra69yr
 | [0258-add-digits](https://github.com/kushagra69yr/leetcode/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/kushagra69yr/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/kushagra69yr/leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/kushagra69yr/leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kushagra69yr/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
