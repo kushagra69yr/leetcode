@@ -44,6 +44,7 @@ GitHub: @kushagra69yr
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kushagra69yr/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/kushagra69yr/leetcode/tree/main/0136-single-number/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kushagra69yr/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0169-majority-element](https://github.com/kushagra69yr/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/kushagra69yr/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/kushagra69yr/leetcode/tree/main/0204-count-primes/) | Medium |
 | [0217-contains-duplicate](https://github.com/kushagra69yr/leetcode/tree/main/0217-contains-duplicate/) | Easy |
@@ -67,6 +68,7 @@ GitHub: @kushagra69yr
 | ------- | ------- |
 | [0001-two-sum](https://github.com/kushagra69yr/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/kushagra69yr/leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0169-majority-element](https://github.com/kushagra69yr/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/kushagra69yr/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/kushagra69yr/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/kushagra69yr/leetcode/tree/main/0268-missing-number/) | Easy |
@@ -78,6 +80,7 @@ GitHub: @kushagra69yr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/kushagra69yr/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/kushagra69yr/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/kushagra69yr/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/kushagra69yr/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/kushagra69yr/leetcode/tree/main/0268-missing-number/) | Easy |
@@ -88,6 +91,7 @@ GitHub: @kushagra69yr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/kushagra69yr/leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0169-majority-element](https://github.com/kushagra69yr/leetcode/tree/main/0169-majority-element/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -208,6 +212,7 @@ GitHub: @kushagra69yr
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/kushagra69yr/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/kushagra69yr/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -233,4 +238,8 @@ GitHub: @kushagra69yr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/kushagra69yr/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/kushagra69yr/leetcode/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
