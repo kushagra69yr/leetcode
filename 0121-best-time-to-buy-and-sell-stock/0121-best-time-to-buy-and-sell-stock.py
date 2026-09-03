@@ -1,7 +1,9 @@
 class Solution:
-    def maxProfit(self,prices):
-        buy,profit =prices[0],0
-        for price in prices:
-            buy = min(buy,price)
-            profit=max(profit,price-buy)
+    def maxProfit(self, prices):
+        buy, profit = prices[0], 0
+
+        for i in prices:
+            buy = min(buy, i)
+            profit = max(profit, i - buy)
+
         return profit
