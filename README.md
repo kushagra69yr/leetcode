@@ -56,6 +56,7 @@ GitHub: @kushagra69yr
 | [0350-intersection-of-two-arrays-ii](https://github.com/kushagra69yr/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/kushagra69yr/leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/kushagra69yr/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0704-binary-search](https://github.com/kushagra69yr/leetcode/tree/main/0704-binary-search/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kushagra69yr/leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kushagra69yr/leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kushagra69yr/leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -125,6 +126,7 @@ GitHub: @kushagra69yr
 | [0268-missing-number](https://github.com/kushagra69yr/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/kushagra69yr/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kushagra69yr/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0704-binary-search](https://github.com/kushagra69yr/leetcode/tree/main/0704-binary-search/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
