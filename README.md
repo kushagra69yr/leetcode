@@ -55,6 +55,7 @@ GitHub: @kushagra69yr
 | [0349-intersection-of-two-arrays](https://github.com/kushagra69yr/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kushagra69yr/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/kushagra69yr/leetcode/tree/main/0414-third-maximum-number/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/kushagra69yr/leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/kushagra69yr/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/kushagra69yr/leetcode/tree/main/0704-binary-search/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kushagra69yr/leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -78,6 +79,7 @@ GitHub: @kushagra69yr
 | [0349-intersection-of-two-arrays](https://github.com/kushagra69yr/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kushagra69yr/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/kushagra69yr/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/kushagra69yr/leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [1796-second-largest-digit-in-a-string](https://github.com/kushagra69yr/leetcode/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -90,6 +92,7 @@ GitHub: @kushagra69yr
 | [0349-intersection-of-two-arrays](https://github.com/kushagra69yr/leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kushagra69yr/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/kushagra69yr/leetcode/tree/main/0414-third-maximum-number/) | Easy |
+| [0442-find-all-duplicates-in-an-array](https://github.com/kushagra69yr/leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
