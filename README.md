@@ -113,6 +113,7 @@ GitHub: @kushagra69yr
 | [0013-roman-to-integer](https://github.com/kushagra69yr/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/kushagra69yr/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0066-plus-one](https://github.com/kushagra69yr/leetcode/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/kushagra69yr/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/kushagra69yr/leetcode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0189-rotate-array](https://github.com/kushagra69yr/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/kushagra69yr/leetcode/tree/main/0204-count-primes/) | Medium |
@@ -133,6 +134,7 @@ GitHub: @kushagra69yr
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/kushagra69yr/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/kushagra69yr/leetcode/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/kushagra69yr/leetcode/tree/main/0268-missing-number/) | Easy |
 ## Two Pointers
@@ -155,6 +157,7 @@ GitHub: @kushagra69yr
 | [0013-roman-to-integer](https://github.com/kushagra69yr/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/kushagra69yr/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kushagra69yr/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0067-add-binary](https://github.com/kushagra69yr/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/kushagra69yr/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/kushagra69yr/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/kushagra69yr/leetcode/tree/main/0242-valid-anagram/) | Easy |
@@ -212,6 +215,7 @@ GitHub: @kushagra69yr
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/kushagra69yr/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/kushagra69yr/leetcode/tree/main/0258-add-digits/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kushagra69yr/leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Queue
