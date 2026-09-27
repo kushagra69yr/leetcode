@@ -1,8 +1,11 @@
 class Solution:
-    def maxProfit(self, prices):
-        buy,profit = [0],0
+    def maxProfit(self,prices):
+        low, best = prices[0], 0
 
-        for i in prices:
-            buy = min(buy,i)
-            profit = max(profit,i-buy)
-        return profit
+        for p in prices[1:]:
+            if p < low:
+                low = p
+            elif p - low > best:
+                best = p - low
+
+        return best
