@@ -47,6 +47,7 @@ GitHub: @kushagra69yr
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kushagra69yr/leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/kushagra69yr/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/kushagra69yr/leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0200-number-of-islands](https://github.com/kushagra69yr/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0204-count-primes](https://github.com/kushagra69yr/leetcode/tree/main/0204-count-primes/) | Medium |
 | [0217-contains-duplicate](https://github.com/kushagra69yr/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/kushagra69yr/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -247,6 +248,7 @@ GitHub: @kushagra69yr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/kushagra69yr/leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0200-number-of-islands](https://github.com/kushagra69yr/leetcode/tree/main/0200-number-of-islands/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -259,8 +261,17 @@ GitHub: @kushagra69yr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kushagra69yr/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0200-number-of-islands](https://github.com/kushagra69yr/leetcode/tree/main/0200-number-of-islands/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/kushagra69yr/leetcode/tree/main/0002-add-two-numbers/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/kushagra69yr/leetcode/tree/main/0200-number-of-islands/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/kushagra69yr/leetcode/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
