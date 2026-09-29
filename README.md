@@ -39,6 +39,7 @@ GitHub: @kushagra69yr
 | [0035-search-insert-position](https://github.com/kushagra69yr/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0048-rotate-image](https://github.com/kushagra69yr/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/kushagra69yr/leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/kushagra69yr/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0066-plus-one](https://github.com/kushagra69yr/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/kushagra69yr/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kushagra69yr/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -216,6 +217,7 @@ GitHub: @kushagra69yr
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/kushagra69yr/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0067-add-binary](https://github.com/kushagra69yr/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/kushagra69yr/leetcode/tree/main/0258-add-digits/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kushagra69yr/leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -248,6 +250,7 @@ GitHub: @kushagra69yr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/kushagra69yr/leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0054-spiral-matrix](https://github.com/kushagra69yr/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/kushagra69yr/leetcode/tree/main/0200-number-of-islands/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
