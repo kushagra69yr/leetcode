@@ -38,6 +38,7 @@ GitHub: @kushagra69yr
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kushagra69yr/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0035-search-insert-position](https://github.com/kushagra69yr/leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0048-rotate-image](https://github.com/kushagra69yr/leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0049-group-anagrams](https://github.com/kushagra69yr/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/kushagra69yr/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/kushagra69yr/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0066-plus-one](https://github.com/kushagra69yr/leetcode/tree/main/0066-plus-one/) | Easy |
@@ -73,6 +74,7 @@ GitHub: @kushagra69yr
 | ------- | ------- |
 | [0001-two-sum](https://github.com/kushagra69yr/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/kushagra69yr/leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0049-group-anagrams](https://github.com/kushagra69yr/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/kushagra69yr/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/kushagra69yr/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/kushagra69yr/leetcode/tree/main/0217-contains-duplicate/) | Easy |
@@ -86,6 +88,7 @@ GitHub: @kushagra69yr
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/kushagra69yr/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/kushagra69yr/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/kushagra69yr/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/kushagra69yr/leetcode/tree/main/0217-contains-duplicate/) | Easy |
@@ -159,6 +162,7 @@ GitHub: @kushagra69yr
 | [0013-roman-to-integer](https://github.com/kushagra69yr/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/kushagra69yr/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kushagra69yr/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0049-group-anagrams](https://github.com/kushagra69yr/leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0067-add-binary](https://github.com/kushagra69yr/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/kushagra69yr/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/kushagra69yr/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
