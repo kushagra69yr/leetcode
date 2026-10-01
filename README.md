@@ -59,6 +59,7 @@ GitHub: @kushagra69yr
 | [0350-intersection-of-two-arrays-ii](https://github.com/kushagra69yr/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0414-third-maximum-number](https://github.com/kushagra69yr/leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kushagra69yr/leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0496-next-greater-element-i](https://github.com/kushagra69yr/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/kushagra69yr/leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/kushagra69yr/leetcode/tree/main/0704-binary-search/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/kushagra69yr/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -85,6 +86,7 @@ GitHub: @kushagra69yr
 | [0350-intersection-of-two-arrays-ii](https://github.com/kushagra69yr/leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/kushagra69yr/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kushagra69yr/leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0496-next-greater-element-i](https://github.com/kushagra69yr/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/kushagra69yr/leetcode/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -178,6 +180,7 @@ GitHub: @kushagra69yr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/kushagra69yr/leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0496-next-greater-element-i](https://github.com/kushagra69yr/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -284,4 +287,8 @@ GitHub: @kushagra69yr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/kushagra69yr/leetcode/tree/main/0200-number-of-islands/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/kushagra69yr/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
