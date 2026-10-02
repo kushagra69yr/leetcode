@@ -1,12 +1,9 @@
 class Solution:
     def hasCycle(self, head):
-        s = f = head
-
-        while f and f.next:
-            s = s.next
-            f = f.next.next
-
-            if s == f:
+        visited = set()
+        while head:
+            if head in visited:
                 return True
-
+            visited.add(head)
+            head = head.next
         return False
