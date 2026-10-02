@@ -151,6 +151,7 @@ GitHub: @kushagra69yr
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kushagra69yr/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kushagra69yr/leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/kushagra69yr/leetcode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/kushagra69yr/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/kushagra69yr/leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/kushagra69yr/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -279,6 +280,7 @@ GitHub: @kushagra69yr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/kushagra69yr/leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/kushagra69yr/leetcode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kushagra69yr/leetcode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
