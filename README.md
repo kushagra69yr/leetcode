@@ -308,4 +308,8 @@ GitHub: @kushagra69yr
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/kushagra69yr/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/kushagra69yr/leetcode/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
