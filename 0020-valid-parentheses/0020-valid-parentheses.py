@@ -1,13 +1,13 @@
 class Solution:
     def isValid(self, s):
-        st = []
-        m = {')':'(', ']':'[', '}':'{'}
-
-        for c in s:
-            if c in m:
-                if not st or st.pop() != m[c]:
-                    return False
-            else:
-                st.append(c)
-
-        return not st
+        stack = []
+        for ch in s:
+            if ch == '(':
+                stack.append(')')
+            elif ch == '{':
+                stack.append('}')
+            elif ch == '[':
+                stack.append(']')
+            elif not  stack or stack.pop() != ch:
+                return False
+        return not stack
